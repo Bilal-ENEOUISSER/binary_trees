@@ -1,6 +1,6 @@
 0x1D. C - Binary trees
-v
-vvvv
+vv
+vvvvv
 vvvv
 vvvv
 vvvv
